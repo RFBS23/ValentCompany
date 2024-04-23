@@ -1,16 +1,15 @@
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
-        <h1 class="logo me-auto"><a href="#">Valent Company</a></h1>
+        <h1 class="logo me-auto"><a href="../index.php">Valent Company</a></h1>
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto active" href="../index.php">Inicio</a></li>
                 <li><a class="nav-link scrollto" href="../index.php#about">Acerca De</a></li>
                 <li><a class="nav-link scrollto" href="../index.php#services">Servicios</a></li>
                 <li><a class="nav-link scrollto" href="../index.php#team">Equipo</a></li>
-                <li><a class="nav-link scrollto" href="../index.php#team">Sostenibilidad</a></li>
-                <li><a class="nav-link scrollto" href="../index.php#team">Procesos</a></li>
-                <li><a class="nav-link scrollto" href="#portfolio">Productos</a></li>
-                <li><a class="nav-link scrollto" href="#">Contacto</a></li>
+                <li><a class="nav-link scrollto" href="nosotros.php#nosotros">Nosotros</a></li>
+                <li><a class="nav-link scrollto" href="procesos.php#procesos">Procesos</a></li>
+                <li><a class="nav-link scrollto" href="contacto.php#contact">Contacto</a></li>
                 <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li>-->
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>

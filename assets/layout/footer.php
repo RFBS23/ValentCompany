@@ -20,9 +20,9 @@
                     </p>
                 </div>
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Useful Links</h4>
+                    <h4>Enlaces</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Inicio</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#hero">Inicio</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#about">Acerca De</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos y condiciones</a></li>

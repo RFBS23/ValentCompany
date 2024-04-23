@@ -39,7 +39,8 @@
 
             </div>
         </div>
-    </section><!-- End Cliens Section -->
+    </section>
+
     <section id="about" class="about">
         <div class="container" data-aos="fade-up">
             <div class="section-title">
@@ -61,8 +62,8 @@
                 </div>
             </div>
         </div>
-    </section><!-- End About Us Section -->
-    <!-- Modal -->
+    </section>
+
     <div class="modal fade" id="acercade" tabindex="-1" aria-labelledby="acercadeLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
@@ -129,25 +130,25 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/Assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+                <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("/Assets/img/img1.png");' data-aos="zoom-in" data-aos-delay="150">
+                </div>
             </div>
         </div>
-    </section><!-- End Why Us Section -->
+    </section>
 
-    <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
         <div class="container" data-aos="zoom-in">
             <div class="row">
                 <div class="col-lg-9 text-center text-lg-start">
                     <h3>Llamada a la accion</h3>
-                    <p>¡Descubre tu estilo único hoy mismo con Valent France! Explora nuestras colecciones de moda sostenible y encuentra prendas de calidad que reflejen tu personalidad. ¡Haz una declaración de moda y únete a nuestra comunidad global de amantes de la moda consciente! </p>
+                    <p>¡Descubre tu estilo único hoy mismo con <span class="badge bg-success">Valent France!</span> Explora nuestras colecciones de moda sostenible y encuentra prendas de calidad que reflejen tu personalidad. ¡Haz una declaración de moda y únete a nuestra comunidad global de amantes de la moda consciente! </p>
                 </div>
                 <div class="col-lg-3 cta-btn-container text-center">
                     <a class="cta-btn align-middle" href="#">¡Compra ahora!</a>
                 </div>
             </div>
         </div>
-    </section><!-- End Cta Section -->
+    </section>
 
     <section id="services" class="services section-bg">
         <div class="container" data-aos="fade-up">
@@ -187,8 +188,8 @@
                 </div>
             </div>
         </div>
-    </section><!-- End Services Section -->
-    <!-- ======= Team Section ======= -->
+    </section>
+
     <section id="team" class="team section-bg">
         <div class="container" data-aos="fade-up">
             <div class="section-title">
@@ -200,9 +201,9 @@
                     <div class="member d-flex align-items-start">
                         <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
-                            <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                            <h4>Walter Canahualpa</h4>
+                            <span>Gerente General</span>
+                            <p>Liderando con visión y pasión hacia la excelencia empresarial.</p>
                             <div class="social">
                                 <a href=""><i class="bi bi-facebook"></i></a>
                                 <a href=""><i class="bi bi-instagram"></i></a>
@@ -210,13 +211,14 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
                     <div class="member d-flex align-items-start">
                         <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
-                            <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                            <h4>kathy</h4>
+                            <span>Contabilidad</span>
+                            <p>Garantizando precisión y transparencia en cada cifra.</p>
                             <div class="social">
                                 <a href=""><i class="bi bi-facebook"></i></a>
                                 <a href=""><i class="bi bi-instagram"></i></a>
@@ -224,13 +226,14 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
                     <div class="member d-flex align-items-start">
                         <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
-                            <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                            <h4>Vicente Rivera</h4>
+                            <span>Ing industrial</span>
+                            <p>Aplicando innovación y eficiencia en la producción textil.</p>
                             <div class="social">
                                 <a href=""><i class="bi bi-facebook"></i></a>
                                 <a href=""><i class="bi bi-instagram"></i></a>
@@ -238,6 +241,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
                     <div class="member d-flex align-items-start">
                         <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
@@ -252,9 +256,10 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
-    </section><!-- End Team Section -->
+    </section>
 
     <div class="container-fluid" id="contenido-dinamico">
 
